@@ -1,2 +1,1 @@
-# library-mangement
-Console-based Library Management System in Core Java with book issue/return, member management, search, and automatic late fines.
+This is a console-based Library Management System built in Core Java (JDK 17) using Maven. It lets a librarian add books, register members, search the catalog, issue and return books with a 14-day loan period, and calculate late fines automatically at Rs 5 per overdue day. The project follows a layered structure (model and service) to keep the code clean and easy to extend.
